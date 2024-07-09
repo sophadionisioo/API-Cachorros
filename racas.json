@@ -1,0 +1,227 @@
+[
+  {
+    "nome": "Vira-lata",
+    "porte": "Variável",
+    "idade": "3 anos",
+    "descricao": "Cachorro único e cheio de personalidade.",
+    "sexo": "Macho",
+    "nome_cachorro": "Bobby",
+    "imagem": "https://imgs.search.brave.com/IyPyig_MWJJUWqZrNohwn5mq5pvwr4QNUyxPxf02pv8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGV0ei5jb20uYnIv/Y2FjaG9ycm8vcmFj/YXMvdmlyYS1sYXRh/L2ltZy92aXJhLWxh/dGEtc2F1ZGF2ZWwu/d2VicA"
+  },
+  {
+    "nome": "Jack Russell Terrier",
+    "porte": "Pequeno",
+    "idade": "1 ano",
+    "descricao": "Energético e alerta, adora atividades ao ar livre.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Luna",
+    "imagem": "https://imgs.search.brave.com/u6uVtUty6_lgo47p5v1Gj-WZRirJ6W_4F41wSPbBAuY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvYTAw/NDctMDAwMTA5L3Bo/b3RvL2phY2stcnVz/c2VsbC1wdXBweS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/RWd0UWR1emRPQkVM/aVBudDlCTjNLOUxC/Qld5dmpjRmxNRXFD/elNhVjlUYz0"
+  },
+  {
+    "nome": "Labrador Retriever",
+    "porte": "Grande",
+    "idade": "4 anos",
+    "descricao": "Extremamente amigável e inteligente, excelente para famílias.",
+    "sexo": "Macho",
+    "nome_cachorro": "Max",
+    "imagem": "https://imgs.search.brave.com/4PxAfYR9GkCuZY5lfLqSVjFOAlfHzhT1bvqgzxtpPwQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzkwLzM4Lzgy/LzM2MF9GXzY5MDM4/ODI4OV9kanB3OWZT/TnZwbUNjeWtlZVkx/VHh0cDdpeGdEdjE0/cy5qcGc"
+  },
+  {
+    "nome": "Pinscher",
+    "porte": "Pequeno",
+    "idade": "2 meses",
+    "descricao": "Corajoso e cheio de energia, ótimo cão de guarda.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Bella",
+    "imagem": "https://imgs.search.brave.com/qEevsYCgGG8UUcBCK0Jwnqm3BthBLEGqE6FO8R8vCQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/b2x4LmNvbS5ici9p/bWFnZXMvNjQvNjQ3/NDgzNDAzNTcxNDk1/LmpwZw"
+  },
+  {
+    "nome": "Beagle",
+    "porte": "Pequeno",
+    "idade": "3 anos",
+    "descricao": "Alegre e curioso, pode ser um pouco teimoso.",
+    "sexo": "Macho",
+    "nome_cachorro": "Charlie",
+    "imagem": "https://imgs.search.brave.com/b_ANHkwIswdY-x_UBqjNQh-oTAFAy4drn_syglZ95kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/NTA2OTItTUxCNzY1/ODgxOTMzNTVfMDUy/MDI0LVcud2VicA"
+  },
+  {
+    "nome": "Golden Retriever",
+    "porte": "Grande",
+    "idade": "5 anos",
+    "descricao": "Protetor e leal, precisa de socialização desde cedo.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Daisy",
+    "imagem": "https://imgs.search.brave.com/MCx0mJ3AT-2YzJJ9LEr2nS-_DJfOtKwj2Z3v80vXB-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vMzUxOC8z/OTMxNTI3MDMxXzc2/MTAyY2UzNDBfdy5q/cGc"
+  },
+  {
+    "nome": "Vira-lata",
+    "porte": "Variável",
+    "idade": "4 anos",
+    "descricao": "Versátil e adaptável, ótimo cão de companhia.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Maggie",
+    "imagem": "https://imgs.search.brave.com/nxj16GvxsYnybW9GgZCO_1sRO7R6Ym8N5xyWtx6RvLg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGF0YXNkYWNhc2Eu/Y29tLmJyL3NpdGVz/L3BhdGFzZGFjYXNh/L2ZpbGVzLzIwMjMt/MDYvdmlyYS1sYXRh/My5qcGc"
+  },
+  {
+    "nome": "Jack Russell Terrier",
+    "porte": "Pequeno",
+    "idade": "3 anos",
+    "descricao": "Curioso e atlético, adora desafios mentais.",
+    "sexo": "Macho",
+    "nome_cachorro": "Jack",
+    "imagem": "https://imgs.search.brave.com/-TFY0GTiHk-CQsC1wPtXR57Ooujea7nUnEBOtc9bYHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzEwLzY2LzQz/LzM2MF9GXzExMDY2/NDMwN18wQTI0VjBB/V2RyTWt5TWY5cGpm/RUdmbmJod2NDamFx/Wi5qcGc"
+  },
+  {
+    "nome": "Labrador Retriever",
+    "porte": "Grande",
+    "idade": 6,
+    "descricao": "Amigável e brincalhão, sempre pronto para uma aventura.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Luna",
+    "imagem": "https://imgs.search.brave.com/bZldh7d_Cc3DsEZ12Xh95lQ9U8ze9hqrXwUyNtLSm4c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGV0ei5jb20uYnIv/Y2FjaG9ycm8vcmFj/YXMvbGFicmFkb3Iv/aW1nL2xhYnJhZG9y/LWd1aWEtcmFjYXMu/d2VicA"
+  },
+  {
+    "nome": "Pinscher",
+    "porte": "Pequeno",
+    "idade": 2,
+    "descricao": "Alerta e corajoso, um excelente cão de alerta.",
+    "sexo": "Macho",
+    "nome_cachorro": "Max",
+    "imagem": "https://www.tribunapr.com.br/wp-content/uploads/2023/12/01104147/Pinshcer-branco-970x550.jpg"
+  },
+  {
+    "nome": "Beagle",
+    "porte": "Pequeno",
+    "idade": 4,
+    "descricao": "Sociável e determinado, ótimo para atividades ao ar livre.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Mia",
+    "imagem": "https://imgs.search.brave.com/dfeXYDcHqmw5yCt0yOBDlFYQy1-nw1gZr8bIQbwkIp8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/b2x4LmNvbS5ici90/aHVtYnMyNTZ4MjU2/LzQxLzQxMTM4NTQz/MzAxMTUzMS5qcGc"
+  },
+  {
+    "nome": "Golden Retriever",
+    "porte": "Grande",
+    "idade": 7,
+    "descricao": "Doce e amigável, sempre pronto para fazer novos amigos.",
+    "sexo": "Macho",
+    "nome_cachorro": "Leo",
+    "imagem": "https://imgs.search.brave.com/hr23SQe-DQklTrHzYaMqc1HvyzeS1XHUEvLqZivWrLs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hZG90/YXIuY29tLmJyL3Bh/aW5lbC91cGxvYWQv/MjAxNi0xMS9hbmlt/YWlzX2ltYWdlbTIy/MDI2My5qcGc"
+  },
+  {
+    "nome": "Vira-lata",
+    "porte": "Variável",
+    "idade": 5,
+    "descricao": "Adaptável e leal, um verdadeiro companheiro.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Luna",
+    "imagem": "https://imgs.search.brave.com/9SWXqAOB23UKtg248qQeplsG-YEH9Zp2pv4uLttqdtk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zYnRu/ZXdzLnNidC5jb20u/YnIvX25leHQvaW1h/Z2U_dXJsPWh0dHBz/Oi8vc2J0LW5ld3Mt/YXNzZXRzLXByb2Qu/czMuc2EtZWFzdC0x/LmFtYXpvbmF3cy5j/b20vdmlyYV9sYXRh/X2NhcmFtZWxvX3Jl/cHJvZHVjYW9fc2J0/X2JyYXNpbF9mNWFj/M2VkMWRiLnBuZyZ3/PTE5MjAmcT05MA"
+  },
+  {
+    "nome": "Jack Russell Terrier",
+    "porte": "Pequeno",
+    "idade": 4,
+    "descricao": "Corajoso e determinado, um cão de muita energia.",
+    "sexo": "Macho",
+    "nome_cachorro": "Rocky",
+    "imagem": "https://imgs.search.brave.com/L_lHoIhkDaAn0Ns0nl5s4l7txrwdJd3NgcY2P2faUOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGV0cGxhbi5jby51/ay9pbWFnZXMvYnJl/ZWQtaW5mby9qYWNr/LXJ1c3NlbGwtdGVy/cmllci9iZWhhdmlv/dXItLXBlcnNvbmFs/aXR5X19qYWNrLXJ1/c3NlbGwuanBn"
+  },
+  {
+    "nome": "Labrador Retriever",
+    "porte": "Grande",
+    "idade": "5 meses",
+    "descricao": "Carinhoso e paciente, ótimo para famílias com crianças.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Bailey",
+    "imagem": "https://imgs.search.brave.com/91PMF8--m5c7bLpd6qWX6I2EMIKTItgfElF9SYvGh1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/NzE3MzAtTUxCMjYx/MDM2ODUyNDlfMDky/MDE3LVcud2VicA"
+  },
+  {
+    "nome": "Pinscher",
+    "porte": "Pequeno",
+    "idade": "4 meses",
+    "descricao": "Ativo e alerta, perfeito para quem busca um cão de guarda eficiente.",
+    "sexo": "Macho",
+    "nome_cachorro": "Toby",
+    "imagem": "https://imgs.search.brave.com/Hsm0h5gA8DbCbbqQhtS2bt1BiYzHCdlZB1rm8Ks19ck/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bXVuZG9lY29sb2dp/YS5jb20uYnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDgv/RmlsaG90ZS1kZS1Q/aW5zY2hlci5qcGc"
+  },
+  {
+    "nome": "Beagle",
+    "porte": "Pequeno",
+    "idade": 5,
+    "descricao": "Amigável e inteligente, adora explorar o ambiente.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Sophie",
+    "imagem": "https://imgs.search.brave.com/R1mxCDJItng_9jgkOoiYNLahwBd-fiNgSVuJTp01UfU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ici52/YXpsb24uY29tL3N0/YXRpYy9waWNzLy8v/MjAxNy8wNC8xNy9E/b2Etc2UtdW1hLWJl/YWdsZS0yMDE3MDQx/NzIzNDg0My5qcGc"
+  },
+  {
+    "nome": "Golden Retriever",
+    "porte": "Grande",
+    "idade": "8 meses",
+    "descricao": "Afetuoso e amável, sempre disposto a agradar.",
+    "sexo": "Macho",
+    "nome_cachorro": "Oscar",
+    "imagem": "https://imgs.search.brave.com/yJZjZgeSiHes_6svU-tOWHIi-HbYRbdhHUAvF0FAwyI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/MTc3NzEtTUNPNDkx/NjUwNjExNzVfMDIy/MDIyLVYud2VicA"
+  },
+  {
+    "nome": "Vira-lata",
+    "porte": "Variável",
+    "idade": 6,
+    "descricao": "Cachorro versátil e carinhoso, se adapta bem a diferentes ambientes.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Zoe",
+    "imagem": "https://imgs.search.brave.com/vdIyLpOok3sX8HMx_4LZj6LCXcaclfj3GsfJtwiUC50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y4L2E3/LzkyL2Y4YTc5MmFl/OThlMTg1NWM3MDZj/NmZkMjJkNjVkMGIy/LmpwZw"
+  },
+  {
+    "nome": "Jack Russell Terrier",
+    "porte": "Pequeno",
+    "idade": 5,
+    "descricao": "Energético e curioso, sempre pronto para uma nova aventura.",
+    "sexo": "Macho",
+    "nome_cachorro": "Cooper",
+    "imagem": "https://imgs.search.brave.com/WcL6Js9kjb2ZNxtn6f6nuc9AoBFBOq-NBlOzSjGFw7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9vcGx1cy5wdC9t/YWdhemluZS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wNi9K/YWNrLVJ1c3NlbGwt/Z2wlQzMlQkNja2xp/Y2gtMS03Njh4NTEz/LmpwZw"
+  },
+  {
+    "nome": "Labrador Retriever",
+    "porte": "Grande",
+    "idade": "1 ano",
+    "descricao": "Amigo leal e companheiro, ideal para famílias ativas.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Lucy",
+    "imagem": "https://imgs.search.brave.com/n7UjeLaZMYmoMwpW6MJvknq_cB-rLVwvvDWEiqQuvic/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y3VzdG9qdXN0by5w/dC9hcGkvdjEvYWRp/bWdzL2ltYWdlcy80/NDY4MjA4MDM5LWxh/YnJhZG9yLXJldHJp/ZXZlci5qcGc_cnVs/ZT1nYWxsZXJ5"
+  },
+  {
+    "nome": "Pinscher",
+    "porte": "Pequeno",
+    "idade": 5,
+    "descricao": "Pequeno, corajoso e alerta, perfeito para proteger o lar.",
+    "sexo": "Macho",
+    "nome_cachorro": "Dumbo",
+    "imagem": "https://imgs.search.brave.com/XhUszsQTlCrFYA5T-4nYpUxl9tarenGcFbCuAFjE5Bk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbmlt/YWlzLmN1bHR1cmFt/aXguY29tL2Jsb2cv/d3AtY29udGVudC91/cGxvYWRzLzIwMTEv/MTEvcGluc2NoZXIt/Mi5qcGc"
+  },
+  {
+    "nome": "Beagle",
+    "porte": "Pequeno",
+    "idade": 6,
+    "descricao": "Sociável e amigável, ótimo para famílias.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Lola",
+    "imagem": "https://imgs.search.brave.com/bKadNyEtHlvhUThRCVjtn9XtpGT5corDBVYW06webzM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pcmVs/YW5kLmFwb2xsby5v/bHhjZG4uY29tL3Yx/L2ZpbGVzL3drM2Ri/bHVtc2k3ei1QVC9p/bWFnZTtzPTIwMHgw/O3E9NTA"
+  },
+  {
+    "nome": "Golden Retriever",
+    "porte": "Grande",
+    "idade": "3 meses",
+    "descricao": "Amigo fiel e dócil, adora estar com pessoas.",
+    "sexo": "Macho",
+    "nome_cachorro": "Buddy",
+    "imagem": "https://imgs.search.brave.com/eD5wfHJ_H2XMHglMDKOD4nGd4e8TozPoHsGIx1NHhV0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/Mjc0MDUtTUxCNzY3/NDQxMjkxMjRfMDYy/MDI0LVcud2VicA"
+  },
+  {
+    "nome": "Vira-lata",
+    "porte": "Variável",
+    "idade": "5 anos",
+    "descricao": "Cão inteligente e afetuoso, sempre pronto para brincadeiras.",
+    "sexo": "Fêmea",
+    "nome_cachorro": "Molly",
+    "imagem": "https://imgs.search.brave.com/wGFB4SgZWs819SWFABYewD6rEwFKhn9Pvj_16kIquG0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC5z/dGF0aWcuY29tLmJy/L2JhbmNvZGVpbWFn/ZW5zLzMzL3NpLzlo/LzMzc2k5aDliaWto/eWRxaDNma2loejI1/YW4uanBn"
+  }
+]
